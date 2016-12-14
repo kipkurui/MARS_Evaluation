@@ -1,0 +1,6 @@
+MARSTools
+funs
+Complete_Analysis_Raw.ipynb
+*.pyc
+*~
+.ipynb_checkpoints
