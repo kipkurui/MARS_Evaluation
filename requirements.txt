@@ -27,7 +27,7 @@ nb-conda-kernels==2.0.0
 nbconvert==4.2.0
 nbformat==4.2.0
 nbpresent==3.0.2
-notebook==4.3.0
+notebook>=5.4.1
 numpy==1.11.2
 pandas==0.19.1
 path.py==0.0.0
