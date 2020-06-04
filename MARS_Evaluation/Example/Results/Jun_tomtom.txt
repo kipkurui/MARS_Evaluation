@@ -1,4 +1,4 @@
-#Query ID	Target ID	Optimal offset	p-value	E-value	q-value	Overlap	Query consensus	Target consensus	Orientation
+Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensus	Target_consensus	Orientation
 MA0488.1.JASPAR	M2289_1.02.CIS-BP	0	7.6152e-23	1.44689e-21	1.44689e-21	12	AGATGATGTCAT	AGATGATGTCAT	+
 MA0488.1.JASPAR	MA0488.1.JASPAR	0	7.6152e-23	1.44689e-21	1.44689e-21	12	AGATGATGTCAT	AGATGATGTCAT	+
 MA0488.1.JASPAR	v-JUN.1_1.ZLAB	1	7.66644e-10	1.45662e-08	9.71083e-09	12	AGATGATGTCAT	AGGATGACGTCATC	+

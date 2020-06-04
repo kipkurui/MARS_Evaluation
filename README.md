@@ -9,12 +9,6 @@ First, you will need to install the requirements from the requirements files. We
 ### Additional_Data
 Contains additional data necessary for a comprehensive analysis. See the README file in the folder for more details. 
 
-### Chapter3
-Folder contains Ipython notebooks and Data for the systematic comparative evaluation of the motif assessment techniques.  A README in the folder provides more details of the folder. 
-    * Chapter_3.ipynb: main code for the chapter
-    * Run_chip_seq_analysis.ipynb
-    * Run_PBM_analysis.ipynb
-
 ### MARS_Evaluation
 MARS_Evaluation the central repository for the complete breakdown of the analysis undertaken for the MARSTools.
 
